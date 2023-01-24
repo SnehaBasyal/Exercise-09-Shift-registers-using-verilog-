@@ -1,5 +1,5 @@
 
-# Exercise--09-Shift-registers-using-verilog-
+# Exercise-09-Shift-registers-using-verilog-
 
 ### AIM: To implement PISO , PIPO,PISO  using verilog and validating their functionality using their functional tables
 
